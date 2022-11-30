@@ -47,9 +47,9 @@ If your site benefits from [Preferred Pricing](https://pantheon.io/plans/agency-
 
 ### Downgrade to Sandbox
 
-To downgrade to Sandbox, see [Cancel Current Plan](/guides/legacy-dashboard/site-plan#cancel-current-plan). Note: [Custom domains](/guides/domains) are not available to Sandbox sites. Downgrading to a Sandbox site will **automatically delete** existing custom domains across all environments of the site. If you decide to return to a paid plan in the future, you will need to add the domains again.
+You must [contact support](/guides/support/contact-support) to request a downgrade to Sandbox. Refer to [Cancel Current Plan](/guides/legacy-dashboard/site-plan#cancel-current-plan) for more information. Note: [Custom domains](/guides/domains) are not available to Sandbox sites. Downgrading to a Sandbox site will **automatically delete** existing custom domains across all environments of the site. If you decide to return to a paid plan in the future, you will need to add the domains again.
 
-Downgrading to a Sandbox site will disable automatic backups. You will still be able to create backups manually. For details, see [Backups Tool](/backups).
+Downgrading to a Sandbox site will disable automatic backups. You will still be able to create backups manually. For details, refer to [Backups Tool](/backups).
 
 ## Roles & Permissions
 
@@ -184,33 +184,19 @@ Invoices and transaction history related to this change can be found in **<span 
 
 ## Cancel Current Plan
 
-Review the [previous section](#sandbox) on feature availability before downgrading to Sandbox.
-
 <Alert title="Note" type="info" >
 
-While all site plans downgrades will be effective immediately, no partial refunds will be issued, per our [terms of service](https://pantheon.io/terms-of-service#tos-11).
+While all site plans downgrades are effective immediately after processing, no partial refunds will be issued, per our [terms of service](https://pantheon.io/terms-of-service#tos-11).
 
 </Alert>
 
-1. Go to the Site Dashboard.
+1. Review the [previous section](#sandbox) on feature availability.
 
-1. Select the current plan:
-
- ![Change current plan for paid sites](../../../images/dashboard/change-plan.png)
-
-1. Click the **Downgrade to free** link to cancel the current plan:
-
- ![Downgrade to free by cancelling current plan](../../../images/dashboard/cancel-plan.png)
-
-1. Check **Yes, cancel my plan** then click **Continue**:
-
- ![Confirm plan cancellation](../../../images/dashboard/confirm-cancellation.png)
-
-1. Make sure the change details are correct, then click **Submit**.
+1. [Contact support](/guides/support/contact-support) to request a downgrade to Sandbox.
 
 1. Remove the existing card as a payment method for the site. For details, see [Billing in the Site Dashboard](/guides/legacy-dashboard/site-billing/#do-not-bill-this-site-to-a-card).
 
-Optionally, you can remove the Sandbox site after downgrading. For details, see [Deleting a Site on Pantheon](/guides/account-mgmt/workspace-sites-teams/sites#delete-sites).
+Optionally, you can remove the Sandbox site after your downgrade request is processed. Refer to [Deleting a Site on Pantheon](/guides/account-mgmt/workspace-sites-teams/sites#delete-sites).
 
 ## More Resources
 
