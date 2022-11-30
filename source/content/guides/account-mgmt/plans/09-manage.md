@@ -30,7 +30,7 @@ integration: [--]
 
 ## Before You Make Changes
 
-Consider the following changes to feature access _before_  your upgrade or request a downgrade to the site's plan. Certain scenarios require code changes in order to safely change the site plan.
+Consider the following changes to feature access _before_  you upgrade or request a downgrade to the site's plan. Certain scenarios require code changes in order to safely change the site plan.
 
 ### Disable Addons When Downgrading to Basic Plan
 
